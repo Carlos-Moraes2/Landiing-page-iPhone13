@@ -15,11 +15,30 @@ header{
     padding: 20px 70px;
     background: #1d1d1f;
 }
-.navigation{
+.navigation{ 
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 .navigation .logo{
     width: 50px;
+}
+.navigation ul{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+.navigation ul li a{
+    color:#888;
+    font-weight: 600;
+    padding-bottom: 4px;
+    transition: all 0.5s ease-in-out;
+}
+.navigation ul li a:hover{
+    color: #fff;
+    border-bottom: 1px solid #fff;
+}
+.navigation check{
+    color: #fff;
+    border-bottom: 1px solid #fff;
 }
