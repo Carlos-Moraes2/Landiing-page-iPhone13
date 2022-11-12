@@ -7,7 +7,7 @@
 - O desafio
 
 #### 🚀 Deploy
-Ainda não realizado.
+https://carlos-moraes2-landing-page.netlify.app/
 
 ## 🛠️ Tecnologias utilizadas no desenvolvimento
 
